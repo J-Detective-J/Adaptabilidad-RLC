@@ -6,12 +6,12 @@ Trabajo simulacion sistema RLC
 El proyecto utiliza las siguientes librerías de Python:\n
 
 NumPy — cálculos numéricos y matrices.  
-
 Matplotlib — generación de gráficas.  
 SciPy — resolución numérica de las ecuaciones diferenciales.  
 
 
-Se pueden instalar mediante:
+Se pueden instalar mediante:  
+
 ```pip install numpy matplotlib scipy```
 
 
