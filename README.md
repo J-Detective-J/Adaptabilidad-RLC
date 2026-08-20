@@ -10,7 +10,7 @@ Matplotlib — generación de gráficas.
 SciPy — resolución numérica de las ecuaciones diferenciales.
 
 Se pueden instalar mediante:
-###```pip install numpy matplotlib scipy```
+```pip install numpy matplotlib scipy```
 
 
 # Respuestas del taller
